@@ -1,0 +1,94 @@
+.Sample0{
+    background-color: rgba(0, 0, 0, 0.863);
+    box-shadow: 0 8px 16px 0 rgba(0, 189, 148, 0.822), 0 6px 20px 0 rgb(0, 245, 253);
+    text-align: center;
+    text-align: center;
+    border-style: dashed;
+}
+.Sample1{
+    margin: 2px 12px;
+    background-color: rgba(75, 75, 75, 0.863);
+    text-align: center;
+    font-weight: 600;
+    padding: 5px;
+    border: 5px solid rgb(0, 0, 0);
+    color: white;
+    text-align: start;
+    border-radius: 3ch;
+}
+.Sample2{
+    margin: 2px 12px;
+    background-color: rgba(75, 75, 75, 0.863);
+    text-align: center;
+    padding: 5px;
+    font-weight: 600;
+    border: 5px solid rgb(0, 0, 0);
+    color: white;
+    text-align: start;
+    border-radius: 3ch;
+}
+.Sample3{
+    background-color:rgba(75, 75, 75, 0.863);
+    text-align: center;
+    padding: 5px;
+    margin: 2px 12px;
+    font-weight: 600;
+    border: 5px solid rgb(0, 0, 0);
+    color: white;
+    text-align: start;
+    border-radius: 3ch;
+}
+.Sample4{
+    background-color:rgba(75, 75, 75, 0.863);
+    text-align: center;
+    padding: 5px;
+    font-weight: 600;
+    margin: 2px 12px;
+    border: 5px solid rgb(0, 0, 0);
+    color: white;
+    text-align: start;
+    border-radius: 3ch;
+}
+.Sample5{
+    text-align: center;
+    font-weight: lighter;
+    margin: 2px 12px;
+    color: rgb(156, 173, 171);
+    text-align: start;
+}
+.Sample6{
+   text-align: center;
+   font-weight: lighter;
+   margin: 2px 12px;
+    color: rgb(156, 173, 171);
+    text-align: start;
+    
+}
+.Sample7{
+    text-align: center;
+    font-weight: lighter;
+    margin: 2px 12px;
+  color: rgb(156, 173, 171);
+  text-align: start;   
+}    
+.Sample8{
+    text-align: center;
+    font-weight: lighter;
+    margin: 2px 12px;
+     color: rgb(156, 173, 171);
+    text-align: start;  
+}
+button {
+    background-color: #293a37d8; /* Green */
+    border: none;
+    color: rgb(0, 184, 159);
+    padding: 6px;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 1.5ch;
+    display: inline-block;
+    font-size: 12px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin: 2px 12px;
+  }
